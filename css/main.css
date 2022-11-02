@@ -228,9 +228,10 @@ ul, li {
 }
 .login_form .login_form_btn {
   background-color: #ee8400;
+  transition: 0.3s;
 }
 .login_form .login_form_btn:hover {
-  background-color: #dcd2cd;
+  background-color: #faf7f4;
 }
 .login_form .login_form_check {
   width: 15px;

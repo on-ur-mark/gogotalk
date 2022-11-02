@@ -64,9 +64,10 @@
     }
     .login_form_btn {
       background-color: $main-color;
+      transition: .3s;
 
       &:hover {
-        background-color: #dcd2cd;
+        background-color: #faf7f4;
       }
     }
     .login_form_check {
